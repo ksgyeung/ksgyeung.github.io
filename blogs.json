@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "query": "test-blog",
         "tags":
         [
             "tag A",
@@ -15,6 +16,7 @@
     },
     {
         "id": 2,
+        "query": "test-blog-2",
         "tags":
         [
             "tag A",
@@ -27,5 +29,5 @@
         "attachments": [],
         "extra_javascript": []
     },
-    {"id":3,"tags":["tag A","tag B"],"title":"Test blog 3","publish_time":1652619071.411,"last_update_time":1652619071.411,"content":"ABC ABC <span style=\"color: red\">RED</span><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p><img style=\"width: 978px;\" src=\"/images/pic2.png\"><br></p>","attachments":{"aaa": "/images/pic2.png"},"extra_javascript":[]}
+    {"id":3,"query": "test-blog-3","tags":["tag A","tag B"],"title":"Test blog 3","publish_time":1652619071.411,"last_update_time":1652619071.411,"content":"ABC ABC <span style=\"color: red\">RED</span><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p>line</p><p><img style=\"width: 978px;\" src=\"/images/pic2.png\"><br></p>","attachments":{"aaa": "/images/pic2.png"},"extra_javascript":[]}
 ]
